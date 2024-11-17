@@ -15,5 +15,5 @@ This repository contains a **Jupyter Notebook** to compare two popular probabili
 
 ### Usage:
 1. Clone or download this repository.
-2. Open the Jupyter Notebook (`CountMin_vs_CountSketch_comparison.ipynb`).
+2. Open the Jupyter Notebook (`Count Vs CountMin Sketch.ipynb`).
 3. Run the notebook cells to explore the implementation, modify parameters like stream length, distinct elements, epsilon, and delta, and observe the resulting performance comparisons.
